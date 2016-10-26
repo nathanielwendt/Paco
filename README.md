@@ -1,5 +1,8 @@
 # Paco
 
+
+####Notes
+
 This project uses Git Submodules to include the core LSTFilter library:
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
